@@ -2,7 +2,7 @@
 
 Personal website of Madhura Karve, PharmD, an ScM candidate in Epidemiology (Clinical Trials and Evidence Synthesis) at the Johns Hopkins Bloomberg School of Public Health.
 
-**Live site:** https://karvemadhura12-alt.github.io/
+**Live site:** https://karvemadhura12-alt.github.io/index.html
 
 Built for JHU Biostat 776 (Statistical Computing) as the course's personal-website assignment, and maintained as a lightweight professional profile: background, skills and experience, what I hope to learn in the course, five fun facts, something I find cool, and how to reach me.
 
