@@ -1,5 +1,5 @@
 ---
-title: "Madhura Karve, PharmD"
+title: "Dr. Madhura Karve, PharmD"
 image: "headshot.jpeg"
 links:
   - label: '`r fontawesome::fa("envelope")` Email'
@@ -23,15 +23,20 @@ output:
 
 ### Background
 
-I'm a clinical researcher and pharmacist by training. I earned my Doctor of Pharmacy from Poona College of Pharmacy, Bharati Vidyapeeth (Deemed) University in Pune, India, where I graduated as the University Gold Medallist. Before coming to Hopkins I spent two years at Indus Biotech Ltd. as an Executive in Scientific Affairs, serving as the primary sponsor contact for three concurrent randomized controlled trials and authoring protocols, Investigator Brochures, CRFs, and Clinical Study Reports end to end.
+- I'm a clinical researcher and pharmacist by training. 
+- I earned my Doctor of Pharmacy from Poona College of Pharmacy, Bharati Vidyapeeth (Deemed) University in Pune, India, where I graduated as the University Gold Medallist. 
+- Before coming to Hopkins I spent two years at Indus Biotech Ltd. as an Executive in Scientific Affairs, serving as the primary sponsor contact for three concurrent randomized controlled trials and authoring protocols, Investigator Brochures, CRFs, and Clinical Study Reports end to end.
 
-### Training
+### Education
 
-I'm currently completing an ScM in Epidemiology (Clinical Trials and Evidence Synthesis track) at the Johns Hopkins Bloomberg School of Public Health, expected May 2027. Alongside coursework, I work as a Graduate Research Assistant at the Center for Clinical Trials and Evidence Synthesis (CCTES) and in the Department of Epidemiology, and I'm a Teaching Assistant for *Introduction to Clinical Trials*.
+- I'm currently completing an ScM in Epidemiology (Clinical Trials and Evidence Synthesis track) at the Johns Hopkins Bloomberg School of Public Health, expected May 2027. 
+- Alongside coursework, I work as a Graduate Research Assistant at the Center for Clinical Trials and Evidence Synthesis (CCTES) and in the Department of Epidemiology, and I'm a Teaching Assistant for *Introduction to Clinical Trials*.
 
 ### Research Interests
 
-My goal is to combine epidemiologic methods, biostatistical skills, and hands-on trial experience to generate trusted evidence on the safety, efficacy, and real-world viability of new medications. Concretely, that means clinical trial design and conduct, systematic review and meta-analysis, and pharmacoepidemiology and drug safety. I'm drawn to work that blends scientific rigor, operational execution, and patient impact.
+- My goal is to combine epidemiologic methods, biostatistical skills, and hands-on trial experience to generate trusted evidence on the safety, efficacy, and real-world viability of new medications. 
+- Concretely, that means clinical trial design and conduct, systematic review and meta-analysis, and pharmacoepidemiology and drug safety. 
+- I'm drawn to work that blends scientific rigor, operational execution, and patient impact.
 
 ## Skills & Experience
 
@@ -58,15 +63,16 @@ My goal is to combine epidemiologic methods, biostatistical skills, and hands-on
 
 ## What I Hope to Learn
 
-Most of my analysis experience so far has been in SPSS and STATA, and I've used R mainly for coursework. In Biostat 776 I want to become genuinely fluent in R as a daily tool: writing reproducible, well-organized code; using the tidyverse to wrangle real clinical and epidemiologic data; and building the version-control habits (Git and GitHub) that make collaborative research projects manageable.
+- Most of my analysis experience so far has been in SPSS and STATA, and I've used R mainly for coursework. 
+- In Biostat 776, I want to become genuinely fluent in R as a daily tool: writing reproducible, well-organized code; using the tidyverse to wrangle real clinical and epidemiologic data; and building the version-control habits (Git and GitHub) that make collaborative research projects manageable.
 
 ## Five Fun Facts
 
-1. My PharmD gold medal was presented at convocation by the Governor of Maharashtra — six years of pharmacy school ending with a handshake I did not expect.
-2. I speak some German: I passed the Goethe-Zertifikat A2 with a 93/100, and I'd like to keep going.
-3. I've been invited back to my alma mater in Pune twice (2024 and 2025) to guest-lecture on careers in clinical research, in the same lecture hall I sat in as a student.
-4. If you take a campus tour at Bloomberg, there's a decent chance I'm leading it — I'm a Campus Ambassador and answer prospective students' questions on Unibuddy.
-5. My most recent research task involved digitizing handwritten vaccine cards from Mozambique, which has given me a deep appreciation for legible handwriting.
+- My PharmD gold medal was presented at convocation by the Governor of Maharashtra — six years of pharmacy school ending with a handshake I did not expect.
+- I speak some German: I passed the Goethe-Zertifikat A2 with a 93/100, and I'd like to keep going.
+- I've been invited back to my alma mater in Pune twice (2024 and 2025) to guest-lecture on careers in clinical research, in the same lecture hall I sat in as a student.
+- If you take a campus tour at Bloomberg, there's a decent chance I'm leading it — I'm a Campus Ambassador and answer prospective students' questions on Unibuddy.
+- My most recent research task involved digitizing handwritten vaccine cards from Mozambique, which has given me a deep appreciation for legible handwriting.
 
 ## Something Cool
 
