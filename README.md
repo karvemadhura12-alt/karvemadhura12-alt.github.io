@@ -26,15 +26,6 @@ Built for JHU Biostat 776 (Statistical Computing) as the course's personal-websi
 | `.nojekyll` | Tells GitHub Pages to serve the HTML as-is, skipping Jekyll |
 | `karvemadhura12-alt.github.io.Rproj` | RStudio project file |
 
-## Updating the site
-
-1. Open `karvemadhura12-alt.github.io.Rproj` in RStudio.
-2. Edit `index.Rmd`.
-3. Click **Knit** (or run `rmarkdown::render("index.Rmd")`) to regenerate `index.html`.
-4. Commit both `index.Rmd` and `index.html`, then push to `gh-pages`.
-
-The site updates at the live URL within a minute or two of pushing.
-
 Required packages: `install.packages(c("postcards", "fontawesome", "rmarkdown"))`.
 
 ## Contact
