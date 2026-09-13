@@ -27,18 +27,23 @@ output:
 - I earned my Doctor of Pharmacy from Poona College of Pharmacy, Bharati Vidyapeeth (Deemed) University in Pune, India, where I graduated as the University Gold Medallist. 
 - Before coming to Hopkins I spent two years at Indus Biotech Ltd. as an Executive in Scientific Affairs, serving as the primary sponsor contact for three concurrent randomized controlled trials and authoring protocols, Investigator Brochures, CRFs, and Clinical Study Reports end to end.
 
-### Education
+## Education
 
-- I'm currently completing an ScM in Epidemiology (Clinical Trials and Evidence Synthesis track) at the Johns Hopkins Bloomberg School of Public Health, expected May 2027. 
-- Alongside coursework, I work as a Graduate Research Assistant at the Center for Clinical Trials and Evidence Synthesis (CCTES) and in the Department of Epidemiology, and I'm a Teaching Assistant for *Introduction to Clinical Trials*.
+**Johns Hopkins University** | Baltimore, MD
 
-### Research Interests
+Master of Science in Epidemiology | Aug 2025 - May 2027 
+
+**Bharati Vidyapeeth Poona College of Pharmacy** | Pune, India
+
+Doctor of Pharmacy | Aug 2017 - Jun 2023
+
+## Research Interests
 
 - My goal is to combine epidemiologic methods, biostatistical skills, and hands-on trial experience to generate trusted evidence on the safety, efficacy, and real-world viability of new medications. 
-- Concretely, that means clinical trial design and conduct, systematic review and meta-analysis, and pharmacoepidemiology and drug safety. 
+- Concretely, that means clinical trial design and conduct, systematic review and meta-analysis, pharmacoepidemiology and drug safety. 
 - I'm drawn to work that blends scientific rigor, operational execution, and patient impact.
 
-## Skills & Experience
+## Skills 
 
 ### Statistics & Data Analysis
 
@@ -68,10 +73,10 @@ output:
 
 ## Five Fun Facts
 
-- My PharmD gold medal was presented at convocation by the Governor of Maharashtra — six years of pharmacy school ending with a handshake I did not expect.
+- My PharmD gold medal was presented at convocation by the Governor of State of Maharashtra, six years of pharmacy school ending with a handshake I did not expect.
 - I speak some German: I passed the Goethe-Zertifikat A2 with a 93/100, and I'd like to keep going.
-- I've been invited back to my alma mater in Pune twice (2024 and 2025) to guest-lecture on careers in clinical research, in the same lecture hall I sat in as a student.
-- If you take a campus tour at Bloomberg, there's a decent chance I'm leading it — I'm a Campus Ambassador and answer prospective students' questions on Unibuddy.
+- I've been invited back to my alma mater in Pune twice (2024 and 2025) as guest to conduct a lecture on careers in clinical research, in the same lecture hall I sat in as a student.
+- If you take a campus tour at Bloomberg, there's a decent chance I'm leading it. I'm a Campus Ambassador and answer prospective students' questions on Unibuddy.
 - My most recent research task involved digitizing handwritten vaccine cards from Mozambique, which has given me a deep appreciation for legible handwriting.
 
 ## Something Cool
