@@ -1,6 +1,6 @@
 # karvemadhura12-alt.github.io
 
-Personal website of Madhura Karve, PharmD — ScM candidate in Epidemiology (Clinical Trials and Evidence Synthesis) at the Johns Hopkins Bloomberg School of Public Health.
+Personal website of Madhura Karve, PharmD, an ScM candidate in Epidemiology (Clinical Trials and Evidence Synthesis) at the Johns Hopkins Bloomberg School of Public Health.
 
 **Live site:** https://karvemadhura12-alt.github.io/
 
