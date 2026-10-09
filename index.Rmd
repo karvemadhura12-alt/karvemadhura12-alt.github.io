@@ -21,6 +21,10 @@ output:
 
 ## About Me
 
+### Summary
+
+Clinical researcher with 2+ years of sponsor-side trial operations and scientific affairs experience, completing an ScM in Epidemiology (Clinical Trials & Evidence Synthesis) at Johns Hopkins. Managed 3 concurrent RCTs as primary sponsor contact across 25+ monitoring visits under ICH-GCP E6(R2), authored core trial documents end to end, and published 5 peer-reviewed papers. Pairs hands-on execution (REDCap, EDC, IP accountability, site and vendor oversight) with epidemiologic and biostatistical methods to generate decision-ready evidence.
+
 ### Background
 
 - I'm a clinical researcher and pharmacist by training. 
@@ -31,11 +35,16 @@ output:
 
 **Johns Hopkins University** | Baltimore, MD
 
-Master of Science in Epidemiology | Aug 2025 - May 2027 
+Master of Science in Epidemiology | Aug 2025 - May 2027
+
+- *Clinical Trials and Evidence Synthesis* track; GPA: 3.68 / 4.0
+- Relevant coursework: Epidemiologic Methods I–III; Statistical Methods in Public Health I–IV; Introduction to Clinical Trials; Systematic Review & Meta-Analysis; Pharmacoepidemiology; Causal Inference in Medicine I; Risk Sciences and Public Policy.
 
 **Bharati Vidyapeeth Poona College of Pharmacy** | Pune, India
 
 Doctor of Pharmacy | Aug 2017 - Jun 2023
+
+- 86.6%, University Gold Medallist
 
 ## Research Interests
 
@@ -64,7 +73,76 @@ Doctor of Pharmacy | Aug 2017 - Jun 2023
 - REDCap and Medidata iMedidata (EDC): CRF design, data entry, query resolution, data cleaning and digitization.
 - Managed three concurrent RCTs as primary sponsor contact across 25+ site initiation, monitoring, and close-out visits under ICH-GCP E6(R2).
 - Co-author on five peer-reviewed publications (see [ORCID](https://orcid.org/0009-0008-9223-845X)).
-- Certifications: Good Clinical Practice (ICH-GCP), Pharmacoepidemiology and Drug Safety, Lean Six Sigma Green Belt.
+
+### Technical Skills & Certifications
+
+- **Clinical Operations:** ICH-GCP E6(R2), protocol development, site initiation/monitoring/close-out visits, source data verification, investigational product (IP) accountability and inventory, CRO and vendor selection and oversight, study start-up, IRB/Ethics Committee and CTRI regulatory submissions, informed consent, ADR/SAE reporting (CIOMS).
+- **Data & Systems:** REDCap, iMedidata (EDC).
+- **Statistics & Analysis:** SPSS, STATA, SAS (familiar); GraphPad Prism.
+- **Scientific Writing:** Protocols, Investigator Brochures (IBs), CRFs, Clinical Study Reports (CSRs), logs and forms, manuscripts, systematic literature review; EndNote.
+- **Certifications:** Good Clinical Practice (ICH-GCP), 2023; Pharmacoepidemiology and Drug Safety; Lean Six Sigma Green Belt, 2023; Goethe-Zertifikat German A2 (93/100), 2022.
+
+## Research & Clinical Trial Experience
+
+**Graduate Research Assistant | Graduate Research Intern** | Baltimore, MD
+
+*Center for Clinical Trials and Evidence Synthesis (CCTES), Johns Hopkins BSPH* | June 2026 – Present
+
+- Perform REDCap data entry and resolve data queries across studies, maintaining data quality and audit-ready documentation.
+- Prepare operational study documents including participant visit and post-visit checklists used by site staff.
+- Manage investigational product (IP) inventory.
+
+**Graduate Research Assistant** | Baltimore, MD
+
+*Department of Epidemiology, Johns Hopkins BSPH* | January 2026 – Present
+
+- **Clinical Trials Curriculum Development (Jan – Apr 2026):** Developed and curated course materials for a graduate clinical trials curriculum, including literature synthesis, evidence-based content review, and slide deck development.
+- **COAST/ACCIDDA Survey & Serology Study (Jun 2026):** Entered and managed survey data on COVID-19, influenza, and RSV vaccination status and infection outcomes.
+- **Mozambique Vaccine Coverage Study (Jul 2026 – Present):** Digitized and cleaned immunization records from physical vaccine cards (BCG, polio, DPT, Hib, HepB, PCV, RV, measles/rubella), identifying and reconciling data discrepancies.
+
+**Teaching Assistant** | Baltimore, MD
+
+*Department of Epidemiology, Johns Hopkins BSPH* | June 2026 – Present
+
+- **Introduction to Clinical Trials (Aug – Dec 2026):** Support assignment development and planning coursework.
+- **Principles of Epidemiology (Jun – Aug 2026):** Co-led lab discussion sections, held weekly office hours, developed and administered student assessments, and coordinated course delivery with instructors and fellow TAs.
+
+**Executive — Scientific Affairs** | Pune, India
+
+*Indus Biotech Ltd.* | July 2023 – June 2025
+
+- **Study Development & Start-Up:** Co-designed trial objectives and endpoints for 3 clinical studies with investigators and internal stakeholders, grounding protocols in targeted literature searches and clinical data. Evaluated and recommended CRO/vendor partners for 2 studies, leading agreement negotiation and onboarding.
+- **Site Coordination & Trial Management:** Served as primary sponsor contact for 3 concurrent RCTs, conducting 25+ site initiation, monitoring, and close-out visits; ensured protocol adherence, timeline management, and high-quality data collection in compliance with ICH-GCP E6(R2) and institutional ethics requirements, with documented parallels to FDA/IND trial conduct standards.
+- **Scientific & Regulatory Writing:** Authored and reviewed protocols, Investigator Brochures, CRFs, logs and forms, and Clinical Study Reports; supported CTRI registry and Ethics Committee submissions. Drafted 4 peer-reviewed manuscripts in under six months, accelerating publication timelines.
+- **Medical Information & Scientific Exchange:** Responded to 25+ product and study enquiries from research, commercial, and strategy teams via literature review and evidence-based written responses. Reviewed scientific content for internal education and trade shows, and authored 15+ articles translating trial data for non-clinical audiences.
+- **Key Projects:**
+    - **Effect of Testosterone Supplement in Males:** Led study start-up activities, developed protocol and study documents, conducted site initiation visits, data verification, 15+ monitoring visits, managed study timelines and milestones, and follow-up documentation.
+    - **Effect of Anti-Aging Supplement on Healthy Aging:** Managed insurance agreements and regulatory documentation ensuring compliance before site activation, developed CRFs, performed study monitoring activities, coordinated cross-functional collaboration with Contract Research Organizations (CRO) maintaining timelines. Provided continuous site support and resolved operational challenges during study conduct.
+    - **Effect of Fenugreek Supplement on Women's Hormonal Balance:** Executed study agreements, conducted site initiation and monitoring visits.
+
+**Clinical Research Coordinator (Intern)** | Pune, India
+
+*Deenanath Mangeshkar Hospital and Research Centre* | May 2023 – June 2023
+
+- Supported Phase II/III leukaemia trials at an 800-bed tertiary hospital: coordinated participant visits and study assessments, collected source data, performed EDC entry, and resolved queries in iMedidata.
+- Prepared CIOMS forms for suspected adverse drug reactions and submitted to the IRB and sponsor.
+
+**Clinical Pharmacist (Intern)** | Pune, India
+
+*Bharati Hospital and Research Centre* | June 2022 – May 2023
+
+- Reviewed 100+ drug charts, reported 3 adverse drug reactions, executed 30+ clinical interventions, and screened prescriptions for interactions and medication errors using Micromedex; answered 25+ clinician drug information queries and counselled patients on medication use.
+- **Antimicrobial Stewardship Program:** Monitored 500+ antimicrobial prescriptions, resolved 20+ antibiotic selection discrepancies, and optimized dosing to patient-specific requirements.
+
+## Independent Research Projects
+
+**Effect of Paclitaxel on Health-Related Quality of Life in Breast Cancer Patients** | Jan 2022 – May 2023
+
+- Primary researcher on a 212-patient prospective study; led recruitment, consent, and SPSS analysis, identifying predictors of HRQOL decline from taxane-induced peripheral neuropathy.
+
+**Patient Preference and Adherence to Antenatal Supplements in a Tertiary Care Hospital** | Oct 2022 – Apr 2023
+
+- Designed and piloted a survey instrument for 202 pregnant women; analysed data in SPSS to identify individual-level determinants of adherence.
 
 ## What I Hope to Learn
 
